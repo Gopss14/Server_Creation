@@ -2,10 +2,10 @@
   "name": "node",
   "version": "1.0.0",
   "description": "thi is nodejs",
-  "main": "library.js",
+  "main": "node.js",
   "scripts": {
-    "start": "node library.js",
-    "dev": "nodemon library.js"
+    "start": "node node.js",
+    "dev": "nodemon node.js"
   },
   "author": "",
   "license": "ISC",
